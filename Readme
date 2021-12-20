@@ -1,0 +1,1 @@
+In this project we use two Regression algorithms XGBoost and RandomForest regressor to Predict House Prices based on two different dataset for training and testing and also with individual algorithm accuracy scores.
